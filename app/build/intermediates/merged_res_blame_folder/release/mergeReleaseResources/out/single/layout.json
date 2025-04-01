@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "com.example.krushi.app-mergeReleaseResources-63:/layout/bottom_nevi.xml",
+        "source": "com.example.krushi.app-main-65:/layout/bottom_nevi.xml"
+    },
+    {
+        "merged": "com.example.krushi.app-mergeReleaseResources-63:/layout/fragment_news.xml",
+        "source": "com.example.krushi.app-main-65:/layout/fragment_news.xml"
+    },
+    {
+        "merged": "com.example.krushi.app-mergeReleaseResources-63:/layout/fragment_price.xml",
+        "source": "com.example.krushi.app-main-65:/layout/fragment_price.xml"
+    },
+    {
+        "merged": "com.example.krushi.app-mergeReleaseResources-63:/layout/activity_main.xml",
+        "source": "com.example.krushi.app-main-65:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.krushi.app-mergeReleaseResources-63:/layout/fragment_second.xml",
+        "source": "com.example.krushi.app-main-65:/layout/fragment_second.xml"
+    },
+    {
+        "merged": "com.example.krushi.app-mergeReleaseResources-63:/layout/fragment_first.xml",
+        "source": "com.example.krushi.app-main-65:/layout/fragment_first.xml"
+    },
+    {
+        "merged": "com.example.krushi.app-mergeReleaseResources-63:/layout/fragment_weather.xml",
+        "source": "com.example.krushi.app-main-65:/layout/fragment_weather.xml"
+    },
+    {
+        "merged": "com.example.krushi.app-mergeReleaseResources-63:/layout/activity_image_full_screen.xml",
+        "source": "com.example.krushi.app-main-65:/layout/activity_image_full_screen.xml"
+    },
+    {
+        "merged": "com.example.krushi.app-mergeReleaseResources-63:/layout/content_image_full_screen.xml",
+        "source": "com.example.krushi.app-main-65:/layout/content_image_full_screen.xml"
+    },
+    {
+        "merged": "com.example.krushi.app-mergeReleaseResources-63:/layout/appbar.xml",
+        "source": "com.example.krushi.app-main-65:/layout/appbar.xml"
+    },
+    {
+        "merged": "com.example.krushi.app-mergeReleaseResources-63:/layout/fragment_home.xml",
+        "source": "com.example.krushi.app-main-65:/layout/fragment_home.xml"
+    }
+]

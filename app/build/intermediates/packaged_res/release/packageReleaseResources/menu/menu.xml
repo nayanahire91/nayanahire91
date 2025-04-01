@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/user"
+        android:title="user"
+        android:icon="@drawable/ic_user"
+        app:showAsAction="ifRoom"
+        />
+    <item
+        android:id="@+id/cam"
+        android:title="cam"
+        android:icon="@drawable/ic_cam"
+        app:showAsAction="ifRoom"
+        />
+    <item
+        android:id="@+id/setting"
+        android:title="setting"
+        app:showAsAction="never"
+        />
+</menu>

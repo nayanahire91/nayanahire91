@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:layout_alignParentTop="true"
+    android:layout_marginTop="80dp"
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <!-- Weather Section -->
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="120dp"
+            android:background="@drawable/weather_bg"
+            android:padding="16dp">
+
+            <TextView
+                android:id="@+id/weather_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="🌤 30°C | पुणे"
+                android:textSize="20sp"
+                android:textColor="@android:color/white"
+                android:textStyle="bold"/>
+
+            <TextView
+                android:id="@+id/weather_desc"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="सोमवार | सूर्यप्रकाश"
+                android:textSize="14sp"
+                android:textColor="@android:color/white"
+                android:layout_below="@id/weather_text"/>
+
+        </RelativeLayout>
+
+        <!-- Market Prices -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="🌾 बाजार भाव"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:layout_marginTop="16dp"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:text="🌿 सोयाबीन ₹4000"
+                android:textSize="16sp"
+                android:padding="8dp"/>
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:text="🌽 मका ₹2500"
+                android:textSize="16sp"
+                android:padding="8dp"/>
+        </LinearLayout>
+
+        <!-- Govt Schemes -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="📝 सरकारी योजना"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:layout_marginTop="16dp"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:text="PM-Kisan योजना"
+                android:textSize="16sp"
+                android:padding="8dp"/>
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:text="फळबाग अनुदान योजना"
+                android:textSize="16sp"
+                android:padding="8dp"/>
+        </LinearLayout>
+
+        <!-- Community & Help -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="🤝 शेतकरी संवाद"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:layout_marginTop="16dp"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="समस्या विचारा"
+            android:layout_marginTop="8dp"
+            android:backgroundTint="@color/teal_700"/>
+
+    </LinearLayout>
+</ScrollView>

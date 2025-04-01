@@ -1,0 +1,178 @@
+[
+    {
+        "merged": "com.example.krushi.app-release-64:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.krushi.app-main-65:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.krushi.app-release-64:/layout_activity_image_full_screen.xml.flat",
+        "source": "com.example.krushi.app-main-65:/layout/activity_image_full_screen.xml"
+    },
+    {
+        "merged": "com.example.krushi.app-release-64:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.krushi.app-main-65:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.krushi.app-release-64:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.krushi.app-main-65:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.krushi.app-release-64:/xml_backup_rules.xml.flat",
+        "source": "com.example.krushi.app-main-65:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.krushi.app-release-64:/drawable_ic_cam.xml.flat",
+        "source": "com.example.krushi.app-main-65:/drawable/ic_cam.xml"
+    },
+    {
+        "merged": "com.example.krushi.app-release-64:/layout_fragment_home.xml.flat",
+        "source": "com.example.krushi.app-main-65:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.krushi.app-release-64:/layout_fragment_first.xml.flat",
+        "source": "com.example.krushi.app-main-65:/layout/fragment_first.xml"
+    },
+    {
+        "merged": "com.example.krushi.app-release-64:/navigation_nav_graph.xml.flat",
+        "source": "com.example.krushi.app-main-65:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.example.krushi.app-release-64:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.krushi.app-main-65:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.krushi.app-release-64:/layout_content_image_full_screen.xml.flat",
+        "source": "com.example.krushi.app-main-65:/layout/content_image_full_screen.xml"
+    },
+    {
+        "merged": "com.example.krushi.app-release-64:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.krushi.app-main-65:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.krushi.app-release-64:/drawable_ic_news.xml.flat",
+        "source": "com.example.krushi.app-main-65:/drawable/ic_news.xml"
+    },
+    {
+        "merged": "com.example.krushi.app-release-64:/drawable_ic_user.xml.flat",
+        "source": "com.example.krushi.app-main-65:/drawable/ic_user.xml"
+    },
+    {
+        "merged": "com.example.krushi.app-release-64:/layout_appbar.xml.flat",
+        "source": "com.example.krushi.app-main-65:/layout/appbar.xml"
+    },
+    {
+        "merged": "com.example.krushi.app-release-64:/layout_bottom_nevi.xml.flat",
+        "source": "com.example.krushi.app-main-65:/layout/bottom_nevi.xml"
+    },
+    {
+        "merged": "com.example.krushi.app-release-64:/layout_fragment_news.xml.flat",
+        "source": "com.example.krushi.app-main-65:/layout/fragment_news.xml"
+    },
+    {
+        "merged": "com.example.krushi.app-release-64:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.krushi.app-main-65:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.krushi.app-release-64:/drawable_weather_bg.xml.flat",
+        "source": "com.example.krushi.app-main-65:/drawable/weather_bg.xml"
+    },
+    {
+        "merged": "com.example.krushi.app-release-64:/layout_fragment_second.xml.flat",
+        "source": "com.example.krushi.app-main-65:/layout/fragment_second.xml"
+    },
+    {
+        "merged": "com.example.krushi.app-release-64:/drawable_ic_news3.png.flat",
+        "source": "com.example.krushi.app-main-65:/drawable/ic_news3.png"
+    },
+    {
+        "merged": "com.example.krushi.app-release-64:/drawable_ic_home.xml.flat",
+        "source": "com.example.krushi.app-main-65:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "com.example.krushi.app-release-64:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.krushi.app-main-65:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.krushi.app-release-64:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.krushi.app-main-65:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.krushi.app-release-64:/drawable_ic_price.xml.flat",
+        "source": "com.example.krushi.app-main-65:/drawable/ic_price.xml"
+    },
+    {
+        "merged": "com.example.krushi.app-release-64:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.krushi.app-main-65:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.krushi.app-release-64:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.krushi.app-main-65:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.krushi.app-release-64:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.krushi.app-main-65:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.krushi.app-release-64:/layout_fragment_weather.xml.flat",
+        "source": "com.example.krushi.app-main-65:/layout/fragment_weather.xml"
+    },
+    {
+        "merged": "com.example.krushi.app-release-64:/menu_menu2.xml.flat",
+        "source": "com.example.krushi.app-main-65:/menu/menu2.xml"
+    },
+    {
+        "merged": "com.example.krushi.app-release-64:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.krushi.app-main-65:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.krushi.app-release-64:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.krushi.app-main-65:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.krushi.app-release-64:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.krushi.app-main-65:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.krushi.app-release-64:/layout_fragment_price.xml.flat",
+        "source": "com.example.krushi.app-main-65:/layout/fragment_price.xml"
+    },
+    {
+        "merged": "com.example.krushi.app-release-64:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.krushi.app-main-65:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.krushi.app-release-64:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.krushi.app-main-65:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.krushi.app-release-64:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.krushi.app-main-65:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.krushi.app-release-64:/menu_menu.xml.flat",
+        "source": "com.example.krushi.app-main-65:/menu/menu.xml"
+    },
+    {
+        "merged": "com.example.krushi.app-release-64:/drawable_ic_news4.png.flat",
+        "source": "com.example.krushi.app-main-65:/drawable/ic_news4.png"
+    },
+    {
+        "merged": "com.example.krushi.app-release-64:/layout_activity_main.xml.flat",
+        "source": "com.example.krushi.app-main-65:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.krushi.app-release-64:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.krushi.app-main-65:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.krushi.app-release-64:/drawable_ic_weather.xml.flat",
+        "source": "com.example.krushi.app-main-65:/drawable/ic_weather.xml"
+    },
+    {
+        "merged": "com.example.krushi.app-release-64:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.krushi.app-main-65:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.krushi.app-release-64:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.krushi.app-main-65:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    }
+]
